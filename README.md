@@ -67,7 +67,7 @@ Busco colaborar em projetos de ciência de dados, desenvolvimento web, automaç�
 ###
 
   <img 
-    align="left" 
+    align="center" 
     alt="Estatísticas GitHub" 
     height="200" 
     style="padding-right: 10px;" 
@@ -75,7 +75,7 @@ Busco colaborar em projetos de ciência de dados, desenvolvimento web, automaç�
   />
 
 <img 
-      align="right" 
+      align="center" 
       alt="Estatísticas GitHub" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitgomesm&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
