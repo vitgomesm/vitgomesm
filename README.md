@@ -11,7 +11,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitgomesm&label=Profile%20views&color=0e75b6&style=flat" alt="vitgomesm" /> </p>
 
   **`Desenvolvedora`**
-  <h3 align="left">👩‍💻  Sobre mim</h3>
+  <h3 align="left">👩🏻‍💻  Sobre mim</h3>
   
   ###
   
