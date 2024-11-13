@@ -16,7 +16,7 @@
   ###
   
   <p align="left">Sou Vitória, tenho 24 anos, moro na Mangueira localizada na ZN do Rio de Janeiro e estou cursando Análise e Desenvolvimento de Sistemas. Trabalho com projetos de análise de dados, automação para a Indústria 4.0 e Big Data, usando Power BI, Python e tecnologias emergentes. Tenho experiência em Ciência de Dados, Big Data e Cibersegurança, além de desenvolvimento web (HTML, CSS, JavaScript) e containerização com Docker.
-Busco colaborar em projetos de ciência de dados, desenvolvimento web, automação industrial com IoT e IA, e visualização de dados. Recentemente, participei de um game show/reality chamado "Território 4.0" disponível no Globoplay que fortaleceu ainda mais minha paixão por tecnologia e resolução de problemas.</p>
+Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automação industrial com IoT e IA, e visualização de dados. Recentemente, participei de um game show/reality chamado "Território 4.0" disponível no Globoplay que fortaleceu ainda mais minha paixão por tecnologia e resolução de problemas.</p>
   
   ###
   
