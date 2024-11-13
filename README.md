@@ -56,7 +56,7 @@ Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automaç�
   
   ###
   
-  <h3 align="left">🔥   Meu Status :</h3>
+  <h3 align="left">🔥   Meu Status:</h3>
   
   ###
 
