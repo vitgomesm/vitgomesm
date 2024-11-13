@@ -85,7 +85,7 @@ Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automaç�
   ###
 <br clear="both" />
 
-<h3 align="left">📞 Meus contatos:</h3>
+<h3 align="left">📞 Contatos:</h3>
 
 
 <div align="left">
