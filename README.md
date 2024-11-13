@@ -73,6 +73,8 @@ Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automaç�
       src="https://github-readme-stats.vercel.app/api?username=vitgomesm&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
     />
   </div>
+
+  ###
     
  <div align="center">
     <img 
