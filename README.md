@@ -10,7 +10,7 @@
   <h1 align="center">👩🏻‍💻 Vitória Gomes </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitgomesm&label=Profile%20views&color=0e75b6&style=flat" alt="vitgomesm" /> </p>
 
-  **`Desenvolvedora`**
+  **`Analista de Dados | Desenvolvedora Full-Stack`**
   <h3 align="left">👩🏻‍💻  Sobre mim</h3>
   
   ###
