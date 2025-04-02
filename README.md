@@ -52,6 +52,11 @@ Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automaç�
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   </div>
   
   ###
@@ -59,6 +64,11 @@ Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automaç�
   <h3 align="left">🔥   Meu Status:</h3>
   
   ###
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitgomesm/vitgomesm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitgomesm/vitgomesm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitgomesm/vitgomesm/output/pacman-contribution-graph.svg">
+</picture>
 
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=vitgomesm&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph"  />
@@ -82,6 +92,7 @@ Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automaç�
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitgomesm&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
+     <img src="https://streak-stats.demolab.com?user=vitgomesm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     </div>
 
   ###
