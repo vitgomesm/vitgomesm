@@ -10,13 +10,13 @@
   <h1 align="center">👩🏻‍💻 Vitória Gomes </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vitgomesm&label=Profile%20views&color=0e75b6&style=flat" alt="vitgomesm" /> </p>
 
-  **`Analista de Dados | Desenvolvedora Full-Stack | DevOPps`**
+  **`Analista de Dados | Desenvolvedora Full-Stack | DevOps`**
   <h3 align="left">👩🏻‍💻  Sobre mim</h3>
   
   ###
   
-  <p align="left">Sou Vitória, tenho 24 anos, moro na Mangueira localizada na ZN do Rio de Janeiro e estou cursando Análise e Desenvolvimento de Sistemas. Trabalho com projetos de análise de dados, automação para a Indústria 4.0 e Big Data, usando Power BI, Python e tecnologias emergentes. Tenho experiência em Ciência de Dados, Big Data e Cibersegurança, além de desenvolvimento web (HTML, CSS, JavaScript) e containerização com Docker.
-Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, automação industrial com IoT e IA, e visualização de dados. Recentemente, participei de um game show/reality chamado "Território 4.0" disponível no Globoplay que fortaleceu ainda mais minha paixão por tecnologia e resolução de problemas.</p>
+  <p align="left">Sou Vitória, tenho 25 anos, moro na Mangueira localizada na ZN do Rio de Janeiro e estou cursando Análise e Desenvolvimento de Sistemas. Trabalho com projetos de análise de dados, automação para a Indústria 4.0 e Big Data, usando Power BI, Python e tecnologias emergentes. Tenho experiência em Ciência de Dados, Big Data e Cibersegurança, além de desenvolvimento web (HTML, CSS, JavaScript) e containerização com Docker.
+Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, DevOps e IA. Recentemente, participei de um game show/reality chamado "Território 4.0" disponível no Globoplay que fortaleceu ainda mais minha paixão por tecnologia e resolução de problemas.</p>
   
   ###
   
