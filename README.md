@@ -81,13 +81,6 @@ Busco colaborar em projetos de Ciência de Dados, desenvolvimento web, DevOps e 
 
   ###
     
- <div align="center">
-    <img 
-      alt="Estatísticas GitHub" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitgomesm&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-
   ###
 <br clear="both" />
 
